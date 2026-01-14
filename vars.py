@@ -6,7 +6,7 @@ API_ID = int(os.environ.get("API_ID", "33130206"))
 API_HASH = os.environ.get("API_HASH", "e16c8a926a60f81d608d2fa3626e5cfe")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
-CREDIT = os.environ.get("CREDIT", "@STUDENTZZZZBOT")
+CREDIT = os.environ.get("CREDIT", "@Uploderblackbot")
 # MongoDB Configuration
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "CpprivateApi")
 DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://fibegi:8oV4fjNNVasSfcoY@cluster0.jp8thup.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")  # Add your own atlas db
@@ -59,6 +59,7 @@ Please contact the admin to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
+
 
 
 
